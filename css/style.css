@@ -62,6 +62,10 @@ footer {
   border-radius: 0;
 }
 
+.card:hover {
+  background-color: yellow;
+}
+
 .nav-item d-none d-sm-block {
   background-color: blue;
 }
